@@ -8,7 +8,10 @@ Blog post and conceptual demo on **NVIDIA SpatialClaw** — a training-free spat
 
 ## Blog
 
-[blog.md](blog.md) — Why the *action interface* (not the tool list) is the real bottleneck; how SpatialClaw's persistent Python kernel works; the 59.9% / +11.2 pp results; and how this maps to the [Universal Agent Thesis](https://cobusgreyling.medium.com/universal-agent-thesis-db16bd7dc650).
+- [blog.md](blog.md) — GitHub / long-form version (tables preserved)
+- [medium.md](medium.md) — **Medium paste-ready** (short paragraphs, no markdown tables, tags + publish checklist)
+
+Why the *action interface* (not the tool list) is the real bottleneck; how SpatialClaw's persistent Python kernel works; the 59.9% / +11.2 pp results; and how this maps to the [Universal Agent Thesis](https://cobusgreyling.medium.com/universal-agent-thesis-db16bd7dc650).
 
 ### Primary sources
 
