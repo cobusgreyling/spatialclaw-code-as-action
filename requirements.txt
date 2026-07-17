@@ -1,0 +1,2 @@
+# Optional UI only — core demo uses the Python stdlib
+gradio>=4.0.0
